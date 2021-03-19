@@ -6,3 +6,5 @@
 - Normalize
 - jQuery
 - Fancybox (jQuery)
+
+демо: https://riva-sm.github.io/mortal-kombat/
